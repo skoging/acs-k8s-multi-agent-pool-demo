@@ -14,6 +14,8 @@
             "allowedValues": [
                 "ukwest",
                 "uksouth",
+                "westeurope",
+                "northeurope",
                 "westcentralus",
                 "westus2",
                 "canadaeast",
